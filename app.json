@@ -1,8 +1,14 @@
 {
   "expo": {
-    "name": "demo",
-    "slug": "demo",
+    "name": "Logicode Chat",
+    "slug": "chat",
     "version": "1.0.0",
+    "icon": "./assets/LogicodeSticker.png",
+    "splash": {
+        "image": "./assets/LogicodeSticker.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
